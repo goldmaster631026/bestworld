@@ -126,7 +126,9 @@ const Contact = () => {
               className="primary-button"
             >
               <span>Send</span>
-              <span><MdSend /></span>
+              <span>
+                <MdSend />
+              </span>
             </button>
           </form>
         </motion.div>
@@ -143,11 +145,13 @@ const Contact = () => {
           </div>
           <div className="flex items-center my-6">
             <FaPhoneAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaPhoneAlt>
-            <h3 className="font-medium text-primary">+5493884335452</h3>
+            <h3 className="font-medium text-primary">@jupiter117</h3>
           </div>
           <div className="flex items-center my-6">
             <MdEmail className="text-3xl mr-8 hover:text-primary cursor-pointer duration-300"></MdEmail>
-            <h3 className="font-medium text-primary">goldmaster631026221@gmail.com</h3>
+            <h3 className="font-medium text-primary">
+              goldmaster631026@gmail.com
+            </h3>
           </div>
           {/* <div className="flex items-center my-6">
             <FaLocationArrow className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaLocationArrow>

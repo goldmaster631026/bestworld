@@ -70,7 +70,7 @@ const About = () => {
               />
             </div>
             <p className="text-neutral font-medium text-center translate-y-[-100%] sm:translate-y-[-0%] sm:mb-2 md:text-left">
-              As a MERN stack developer, I am committed to building high-quality
+              As a Web2.0 Web3.0 stack developer, I am committed to building high-quality
               web applications that meet the needs of my clients. With years of
               experience in full-stack web development, I specialize in using
               React.js, Next js, Typescript, MongoDB, Express.js, and Node.js to
