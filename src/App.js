@@ -17,7 +17,7 @@ import Contact from "./pages/Contact";
 import About from "./pages/About";
 const Home = React.lazy(() => import("./pages/Home"));
 const Project = React.lazy(() => import("./pages/Project"));
-
+//app
 function App() {
   const location = useLocation();
   const isFalse = location.pathname.includes("404");
